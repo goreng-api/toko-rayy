@@ -312,6 +312,18 @@
             "menuContent": ""
         }
     ],
-    "iNJECTOR ANDROID": [],
+    "iNJECTOR ANDROID": [
+        {
+            "id": 73,
+            "nama": "PERMANENT",
+            "harga": 150,
+            "hargaAsli": 150,
+            "deskripsiPanjang": "FITUR iNJECTOR ANDROID || • aim assist || • resolution || • smooth drag || • no recoil and dll",
+            "createdAt": "2025-11-22T10:02:04.323Z",
+            "nomorWA": "",
+            "images": [],
+            "menuContent": ""
+        }
+    ],
     "FILE ANDROID (ui sensix)": []
 }
