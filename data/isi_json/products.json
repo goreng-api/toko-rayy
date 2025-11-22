@@ -128,7 +128,19 @@
             "menuContent": ""
         }
     ],
-    "FILE iPHONE": [],
+    "FILE iPHONE": [
+        {
+            "id": 57,
+            "nama": "AIM DRAG iOS V2",
+            "harga": 35,
+            "hargaAsli": 35,
+            "deskripsiPanjang": "• melicinkan screen || • drag menjadi lebih ringan || • drag sikit hs || • lebih sedap dari v1",
+            "createdAt": "2025-11-22T09:34:51.802Z",
+            "nomorWA": "",
+            "images": [],
+            "menuContent": ""
+        }
+    ],
     "FILE ANDROID (aim head)": [],
     "FILE ANDROID (headlock)": []
 }
