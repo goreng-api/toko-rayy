@@ -402,5 +402,17 @@
             "menuContent": ""
         }
     ],
-    "FILE ANDROID (ui sensix)": []
+    "FILE ANDROID (ui sensix)": [
+        {
+            "id": 81,
+            "nama": "EXTREME 270%",
+            "harga": 35,
+            "hargaAsli": 35,
+            "deskripsiPanjang": "% itu adalah kelicinan screen supaya drag menjadi lebih ringan dan meningkatkan performance, semakin tinggi % performance dan tahap kelicinan itu semakin tinggi.",
+            "createdAt": "2025-11-22T10:07:20.793Z",
+            "nomorWA": "",
+            "images": [],
+            "menuContent": ""
+        }
+    ]
 }
