@@ -256,14 +256,16 @@
     "FILE ANDROID (headlock)": [
         {
             "id": 71,
-            "nama": "HEADLOCK VEZON 48%",
-            "harga": 5,
-            "hargaAsli": 5,
+            "nama": "HEADLOCK STRIKE 58%",
+            "harga": 10,
+            "hargaAsli": 10,
             "deskripsiPanjang": "semakin tinggi % semakin gacor aim",
             "createdAt": "2025-11-22T09:46:24.036Z",
             "nomorWA": "",
             "images": [],
-            "menuContent": ""
+            "menuContent": "",
+            "category": "FILE ANDROID (headlock)",
+            "discountEndDate": null
         },
         {
             "id": 70,
