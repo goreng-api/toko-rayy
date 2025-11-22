@@ -318,6 +318,18 @@
             "menuContent": ""
         }
     ],
-    "MOD MENU ANDROID (hg cheat)": [],
+    "MOD MENU ANDROID (hg cheat)": [
+        {
+            "id": 49,
+            "nama": "30 DAY",
+            "harga": 65,
+            "hargaAsli": 65,
+            "deskripsiPanjang": "FITUR HG CHEAT || • aimbot || • aimbot legit || • auto headshot || • antena (esp) and dll",
+            "createdAt": "2025-11-22T08:31:34.878Z",
+            "nomorWA": "",
+            "images": [],
+            "menuContent": ""
+        }
+    ],
     "MOD MENU ANDROID (drip client)": []
 }
