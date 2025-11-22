@@ -308,14 +308,16 @@
         },
         {
             "id": 45,
-            "nama": "GBOX (wajib beli)",
+            "nama": "GBOX 1 TAHUN (wajib beli untuk install mod menu)",
             "harga": 45,
             "hargaAsli": 45,
             "deskripsiPanjang": "KEGUNAAN GBOX || • untuk install mod menu ios || • boleh pasang app mod / IPA tanpa Jailbreak. || • cara paling senang & selamat untuk pasang app luar dari App Store di iOS tanpa jailbreak dan tanpa",
             "createdAt": "2025-11-22T07:35:44.101Z",
             "nomorWA": "",
             "images": [],
-            "menuContent": ""
+            "menuContent": "",
+            "category": "MOD MENU iPHONE",
+            "discountEndDate": null
         }
     ],
     "MOD MENU ANDROID (hg cheat)": [
