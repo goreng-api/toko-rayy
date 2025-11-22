@@ -1,0 +1,41 @@
+{
+    "globalPhoneNumber": "601173686870",
+    "categoryPhoneNumbers": {
+        "IPHONE": "",
+        "KEY AIMLOCK iPHONE 90%": "",
+        "ANDROID": "",
+        "XiT AIMLOCK ANDROID": "",
+        "EZ HEAD ANDROID": "",
+        "AIM HEAD ANDROID": "",
+        "iNJECTOR ANDROID": ""
+    },
+    "apiKeyPurchaseNumber": "6285819066475",
+    "apiKeyPrices": [
+        {
+            "tier": "Paket 1 bulan",
+            "price": 15000,
+            "discountPrice": null,
+            "discountEndDate": null
+        },
+        {
+            "tier": "Paket permanen",
+            "price": 20000,
+            "discountPrice": null,
+            "discountEndDate": null
+        }
+    ],
+    "categoryMetadata": {
+        "Logo bku": {
+            "icon": "https://img1.pixhost.to/images/8532/638474942_by_rikishopreal.jpg"
+        },
+        "IPHONE": {
+            "icon": "https://img1.pixhost.to/images/9263/648914359_by_rikishopreal.jpg"
+        },
+        "KEY AIMLOCK iPHONE 90%": {
+            "icon": "https://img1.pixhost.to/images/9264/648930296_by_rikishopreal.jpg"
+        },
+        "Ui SENSIX ANDROID": {
+            "icon": "https://img1.pixhost.to/images/9915/657511437_by_rikishopreal.jpg"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "RAYYSET": {
+        "code": "RAYYSET",
+        "percentage": 10,
+        "expires": "2025-11-04T14:55:00.000Z",
+        "maxUses": 2,
+        "uses": 1,
+        "allowedCategories": [
+            "iPHONE",
+            "ANDROID",
+            "AIM HEAD ANDROID",
+            "iNJECTOR ANDROID",
+            "Ui SENSIX ANDROID"
+        ],
+        "allowedProductId": null
+    }
+}
