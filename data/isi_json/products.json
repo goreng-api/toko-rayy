@@ -314,6 +314,17 @@
     ],
     "iNJECTOR ANDROID": [
         {
+            "id": 78,
+            "nama": "7 DAY",
+            "harga": 10,
+            "hargaAsli": 10,
+            "deskripsiPanjang": "FITUR iNJECTOR ANDROID || • aim assist || • resolution || • smooth drag || • no recoil and dll",
+            "createdAt": "2025-11-22T10:03:48.619Z",
+            "nomorWA": "",
+            "images": [],
+            "menuContent": ""
+        },
+        {
             "id": 77,
             "nama": "15 DAY",
             "harga": 18,
