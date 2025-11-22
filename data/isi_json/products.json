@@ -92,52 +92,6 @@
             "discountEndDate": null
         }
     ],
-    "Ui SENSIX ANDROID": [
-        {
-            "id": 40,
-            "nama": "STANDARD 90%",
-            "harga": 5,
-            "hargaAsli": 5,
-            "deskripsiPanjang": "% itu adalah kelicinan screen supaya drag menjadi lebih ringan dan meningkatkan performance, semakin tinggi % performance dan tahap kelicinan itu semakin tinggi.",
-            "createdAt": "2025-11-04T09:11:53.768Z",
-            "nomorWA": "",
-            "images": [],
-            "menuContent": ""
-        },
-        {
-            "id": 38,
-            "nama": "HIGH 135%",
-            "harga": 15,
-            "hargaAsli": 15,
-            "deskripsiPanjang": "% itu adalah kelicinan screen supaya drag menjadi lebih ringan dan meningkatkan performance, semakin tinggi % performance dan tahap kelicinan itu semakin tinggi.",
-            "createdAt": "2025-11-04T09:08:10.259Z",
-            "nomorWA": "",
-            "images": [],
-            "menuContent": ""
-        },
-        {
-            "id": 37,
-            "nama": "ULTRA 190%",
-            "harga": 25,
-            "hargaAsli": 25,
-            "deskripsiPanjang": "% itu adalah kelicinan screen supaya drag menjadi lebih ringan dan meningkatkan performance, semakin tinggi % performance dan tahap kelicinan itu semakin tinggi.",
-            "createdAt": "2025-11-04T09:07:47.736Z",
-            "nomorWA": "",
-            "images": [],
-            "menuContent": ""
-        },
-        {
-            "id": 36,
-            "nama": "EXTREME 270%",
-            "harga": 35,
-            "hargaAsli": 35,
-            "deskripsiPanjang": "% itu adalah kelicinan screen supaya drag menjadi lebih ringan dan meningkatkan performance, semakin tinggi % performance dan tahap kelicinan itu semakin tinggi.",
-            "createdAt": "2025-11-04T09:07:22.384Z",
-            "nomorWA": "",
-            "images": [],
-            "menuContent": ""
-        }
-    ],
     "MOD MENU iPHONE": [
         {
             "id": 48,
