@@ -226,47 +226,6 @@
             "discountEndDate": null
         }
     ],
-    "MOD MENU ANDROID (drip client)": [
-        {
-            "id": 33,
-            "nama": "1 DAY",
-            "harga": 15,
-            "hargaAsli": 15,
-            "deskripsiPanjang": "©RAYYSETTING7-RS7",
-            "createdAt": "2025-10-29T01:07:07.039011+00:00",
-            "nomorWA": "",
-            "images": [],
-            "menuContent": "",
-            "category": "MOD MENU ANDROID (drip client)",
-            "discountEndDate": null
-        },
-        {
-            "id": 34,
-            "nama": "7 DAY",
-            "harga": 45,
-            "hargaAsli": 45,
-            "deskripsiPanjang": "©RAYYSETTING7-RS7",
-            "createdAt": "2025-10-29T01:07:07.039011+00:00",
-            "nomorWA": "",
-            "images": [],
-            "menuContent": "",
-            "category": "MOD MENU ANDROID (drip client)",
-            "discountEndDate": null
-        },
-        {
-            "id": 35,
-            "nama": "30 DAY",
-            "harga": 80,
-            "hargaAsli": 80,
-            "deskripsiPanjang": "©RAYYSETTING7-RS7",
-            "createdAt": "2025-10-29T01:07:07.039011+00:00",
-            "nomorWA": "",
-            "images": [],
-            "menuContent": "",
-            "category": "MOD MENU ANDROID (drip client)",
-            "discountEndDate": null
-        }
-    ],
     "Ui SENSIX ANDROID": [
         {
             "id": 40,
