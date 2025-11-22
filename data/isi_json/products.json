@@ -404,6 +404,17 @@
     ],
     "FILE ANDROID (ui sensix)": [
         {
+            "id": 84,
+            "nama": "STANDARD 90%",
+            "harga": 5,
+            "hargaAsli": 5,
+            "deskripsiPanjang": "% itu adalah kelicinan screen supaya drag menjadi lebih ringan dan meningkatkan performance, semakin tinggi % performance dan tahap kelicinan itu semakin tinggi.",
+            "createdAt": "2025-11-22T10:08:20.577Z",
+            "nomorWA": "",
+            "images": [],
+            "menuContent": ""
+        },
+        {
             "id": 83,
             "nama": "HIGH 135%",
             "harga": 15,
