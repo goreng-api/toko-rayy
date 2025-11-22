@@ -79,47 +79,6 @@
             "discountEndDate": null
         }
     ],
-    "ANDROID": [
-        {
-            "id": 9,
-            "nama": "SET ANDRO",
-            "harga": 5,
-            "hargaAsli": 5,
-            "deskripsiPanjang": "©RAYYSETTING7-RS7",
-            "createdAt": "2025-10-29T01:07:07.039011+00:00",
-            "nomorWA": "",
-            "images": [],
-            "menuContent": "",
-            "category": "ANDROID",
-            "discountEndDate": null
-        },
-        {
-            "id": 10,
-            "nama": "STABILIZER x AIMLOCK",
-            "harga": 6,
-            "hargaAsli": 6,
-            "deskripsiPanjang": "©RAYYSETTING7-RS7",
-            "createdAt": "2025-10-29T01:07:07.039011+00:00",
-            "nomorWA": "",
-            "images": [],
-            "menuContent": "",
-            "category": "ANDROID",
-            "discountEndDate": null
-        },
-        {
-            "id": 12,
-            "nama": "SMOOTH DRAG",
-            "harga": 10,
-            "hargaAsli": 10,
-            "deskripsiPanjang": "©RAYYSETTING7-RS7",
-            "createdAt": "2025-10-29T01:07:07.039011+00:00",
-            "nomorWA": "",
-            "images": [],
-            "menuContent": "",
-            "category": "ANDROID",
-            "discountEndDate": null
-        }
-    ],
     "AIM HEAD ANDROID": [
         {
             "id": 18,
