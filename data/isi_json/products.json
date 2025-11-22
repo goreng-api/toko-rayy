@@ -368,6 +368,17 @@
     ],
     "MOD MENU ANDROID (drip client)": [
         {
+            "id": 56,
+            "nama": "1 DAY",
+            "harga": 15,
+            "hargaAsli": 15,
+            "deskripsiPanjang": "FITUR DRIP CLIENT || • aimbot legit || • auto headshot || • aim kill || • silent kill || • silent aim || • enemy esp and dll",
+            "createdAt": "2025-11-22T08:41:29.382Z",
+            "nomorWA": "",
+            "images": [],
+            "menuContent": ""
+        },
+        {
             "id": 55,
             "nama": "7 DAY",
             "harga": 45,
