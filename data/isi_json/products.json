@@ -130,6 +130,17 @@
     ],
     "FILE iPHONE": [
         {
+            "id": 58,
+            "nama": "AIM DRAG iOS V1",
+            "harga": 25,
+            "hargaAsli": 25,
+            "deskripsiPanjang": "• melicinkan screen || • drag menjadi lebih ringan || • drag sikit hs",
+            "createdAt": "2025-11-22T09:35:45.443Z",
+            "nomorWA": "",
+            "images": [],
+            "menuContent": ""
+        },
+        {
             "id": 57,
             "nama": "AIM DRAG iOS V2",
             "harga": 35,
