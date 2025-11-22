@@ -255,6 +255,17 @@
     ],
     "FILE ANDROID (headlock)": [
         {
+            "id": 70,
+            "nama": "HEADLOCK BLAZE 68%",
+            "harga": 20,
+            "hargaAsli": 20,
+            "deskripsiPanjang": "semakin tinggi % semakin gacor aim",
+            "createdAt": "2025-11-22T09:46:03.234Z",
+            "nomorWA": "",
+            "images": [],
+            "menuContent": ""
+        },
+        {
             "id": 69,
             "nama": "HEADLOCK EXTRA 78%",
             "harga": 25,
