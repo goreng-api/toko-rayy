@@ -259,11 +259,13 @@
             "nama": "HEADLOCK VEZON 48%",
             "harga": 5,
             "hargaAsli": 5,
-            "deskripsiPanjang": "semakin tinggi % semakin gacor aim",
+            "deskripsiPanjang": "semakin tinggi “%” semakin gacor aim ||  || NOTE : || android version 14 keatas tak support",
             "createdAt": "2025-11-22T09:49:29.873Z",
             "nomorWA": "",
             "images": [],
-            "menuContent": ""
+            "menuContent": "",
+            "category": "FILE ANDROID (headlock)",
+            "discountEndDate": null
         },
         {
             "id": 71,
