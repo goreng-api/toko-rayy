@@ -285,11 +285,13 @@
             "nama": "HEADLOCK BLAZE 68%",
             "harga": 20,
             "hargaAsli": 20,
-            "deskripsiPanjang": "semakin tinggi % semakin gacor aim",
+            "deskripsiPanjang": "semakin tinggi “%” semakin gacor aim ||  || NOTE : || android version 14 keatas tak support",
             "createdAt": "2025-11-22T09:46:03.234Z",
             "nomorWA": "",
             "images": [],
-            "menuContent": ""
+            "menuContent": "",
+            "category": "FILE ANDROID (headlock)",
+            "discountEndDate": null
         },
         {
             "id": 69,
