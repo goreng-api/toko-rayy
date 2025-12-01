@@ -298,11 +298,13 @@
             "nama": "HEADLOCK EXTRA 78%",
             "harga": 25,
             "hargaAsli": 25,
-            "deskripsiPanjang": "semakin tinggi % semakin gacor aim",
+            "deskripsiPanjang": "semakin tinggi “%” semakin gacor aim ||  || NOTE : || android version 14 keatas tak support",
             "createdAt": "2025-11-22T09:45:26.074Z",
             "nomorWA": "",
             "images": [],
-            "menuContent": ""
+            "menuContent": "",
+            "category": "FILE ANDROID (headlock)",
+            "discountEndDate": null
         },
         {
             "id": 68,
