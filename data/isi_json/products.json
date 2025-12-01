@@ -311,11 +311,13 @@
             "nama": "HEADLOCK RS7 88%",
             "harga": 35,
             "hargaAsli": 35,
-            "deskripsiPanjang": "semakin tinggi % semakin gacor aim",
+            "deskripsiPanjang": "semakin tinggi “%” semakin gacor aim ||  || NOTE : || android version 14 keatas tak support",
             "createdAt": "2025-11-22T09:44:55.336Z",
             "nomorWA": "",
             "images": [],
-            "menuContent": ""
+            "menuContent": "",
+            "category": "FILE ANDROID (headlock)",
+            "discountEndDate": null
         }
     ],
     "iNJECTOR ANDROID": [
